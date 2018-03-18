@@ -1,0 +1,64 @@
+
+
+input{
+	padding:10px;
+font-size:1.5rem;
+}
+input[type="text"]
+{
+display:block;
+margin-bottom:10px;
+width:100%;
+border:1px solid black;
+border-radius:10px;
+}
+input[type="tel"]
+{
+display:block;
+margin-bottom:10px;
+width:100%;
+border:1px solid black;
+border-radius:10px;
+}
+textarea
+{
+display:block;
+margin-bottom:10px;
+width:100%;
+border:1px solid black;
+border-radius:10px;
+}
+
+input[type="Password"]
+{
+display:block;
+margin-bottom:10px;
+width:100%;
+border:1px solid black;
+border-radius:10px;
+}
+#submit{
+background:#008CBA;
+	font-family: 'Modak', cursive;
+	font-size:1.2rem;
+	margin-left:35%;
+font-color:black;
+	border-radius:10px;
+height: 50px;
+width: 100px;
+	align:center;
+text-shadow:none;
+}
+input[type="file"]
+{
+margin-bottom:10px;
+}
+p{
+	font-family: 'Economica', cursive;
+font-size:1.2rem;
+}
+a{
+	float:right;
+	padding:10px;
+font-size:1.2rem;
+}
